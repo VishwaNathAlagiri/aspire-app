@@ -1,0 +1,88 @@
+{
+    "cardInformation": {
+        "cardDetails": {
+            "title": "Card details",
+            "key": "cardDetails",
+            "items": [
+                {
+                    "icon": "file-storage",
+                    "iconColor": "#009DFF1A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "CREDIT",
+                    "reason": "Refund on debit card",
+                    "amount": "150"
+                },
+                {
+                    "icon": "flights",
+                    "iconColor": "##00D6B51A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "DEBIT",
+                    "reason": "Charged to debit card",
+                    "amount": "150"
+                },
+                {
+                    "icon": "megaphone",
+                    "iconColor": "#F251951A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "DEBIT",
+                    "reason": "Charged to debit card",
+                    "amount": "150"
+                },
+                {
+                    "icon": "file-storage",
+                    "iconColor": "#009DFF1A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "DEBIT",
+                    "reason": "Charged to debit card",
+                    "amount": "150"
+                }
+            ]
+        },
+        "recentTransaction": {
+            "title": "Recent Transaction",
+            "key": "recentTransaction",
+            "items": [
+                {
+                    "icon": "file-storage",
+                    "iconColor": "#009DFF1A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "CREDIT",
+                    "reason": "Refund on debit card",
+                    "amount": "150"
+                },
+                {
+                    "icon": "flights",
+                    "iconColor": "#00D6B51A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "DEBIT",
+                    "reason": "Charged to debit card",
+                    "amount": "150"
+                },
+                {
+                    "icon": "megaphone",
+                    "iconColor": "#F251951A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "DEBIT",
+                    "reason": "Charged to debit card",
+                    "amount": "150"
+                },
+                {
+                    "icon": "file-storage",
+                    "iconColor": "#009DFF1A",
+                    "storeName": "Hamleys",
+                    "transactionDateTime": "20 May 2020",
+                    "type": "DEBIT",
+                    "reason": "Charged to debit card",
+                    "amount": "150"
+                }
+            ]
+        }
+    }
+}
